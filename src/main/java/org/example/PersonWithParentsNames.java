@@ -1,4 +1,4 @@
-package org.umcspro.genealogy;
+package org.example;
 
 import java.util.ArrayList;
 import java.util.Arrays;

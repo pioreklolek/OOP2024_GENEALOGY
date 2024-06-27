@@ -1,4 +1,4 @@
-package org.umcspro.genealogy;
+package org.example;
 
 public class NegativeLifespanException extends Exception{
     public NegativeLifespanException(Person person){
